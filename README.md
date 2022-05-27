@@ -1,2 +1,2 @@
 # webPAge
-small websiter
+small website
